@@ -28,5 +28,5 @@ Performed multiple sequence alignments (MSA) and built phylogenetic trees to vis
 * **Bioinformatics Ecosystem:** Bioconductor (`biomaRt`), `SeqinR`, `Biostrings` 
 * **Environments & Reproducible Practices:** Jupyter Notebooks, Git, Architecture Management 
 * **Database Querying:** Ensembl Data Mining, Genomic API Access (REST/biomaRt)
-**Core Concepts:** 
+* **Core Concepts:** 
 Genetic database querying, sequence statistics
