@@ -18,7 +18,7 @@ Programmatically retrieved, parsed, and analyzed genomic and proteomic sequence 
 * **Key Tasks:** 
 Used `SeqinR` to read FASTA files, compute base compositions, and analyze DNA/protein sequences. 
 Implemented algorithmic approaches to locate open reading frames (ORFs) and predict gene structures. 
-### 3. Multiple Alignment & Phylogenetics (`Multiple_Alignment_and_Phylogenetic_trees.ipynb`) 
+### 3. Multiple Alignment & Phylogenetics (`Multiple_Alignment_and_Phylogenetic_trees.ipynb`) f
 * **Objective:** 
 Studied sequence conservation across species and reconstructed evolutionary histories. 
 * **Key Tasks:** 
@@ -30,3 +30,5 @@ Performed multiple sequence alignments (MSA) and built phylogenetic trees to vis
 * **Database Querying:** Ensembl Data Mining, Genomic API Access (REST/biomaRt)
 * **Core Concepts:** 
 Genetic database querying, sequence statistics
+## Resources
+* **DESeq2 project** follows the workflows and data patterns outlined in **'DESeq Tutorial'** by **'Jason Tsai'**, here's the online link "https://introtogenomics.readthedocs.io/en/latest/2021.11.11.DeseqTutorial.html"
