@@ -32,3 +32,4 @@ Performed multiple sequence alignments (MSA) and built phylogenetic trees to vis
 Genetic database querying, sequence statistics
 ## Resources
 * **DESeq2 project** follows the workflows and data patterns outlined in **'DESeq Tutorial'** by **'Jason Tsai'**, here's the online link "https://introtogenomics.readthedocs.io/en/latest/2021.11.11.DeseqTutorial.html"
+* **Datasets for Microarray analysis:** Kannan A, Philley JV, Hertweck KL, Ndetan H, Singh KP, Sivakumar S, Wells RB, Vadlamudi RK, Dasgupta S. Cancer Testis Antigen Promotes **Triple Negative Breast Cancer Metastasis** and is Traceable in the Circulating Extracellular Vesicles. Sci Rep. 2019 Aug 12;9(1):11632. doi: 10.1038/s41598-019-48064-w. Erratum in: Sci Rep. 2020 Jan 31;10(1):1907. doi: 10.1038/s41598-020-58045-z. PMID: 31406142; PMCID: PMC6690992.
